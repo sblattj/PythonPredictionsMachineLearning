@@ -17,16 +17,20 @@ Special Thanks to Jason Brownlee
 Run easily with Anaconda 5.1
 
 # Box and Wisker Plot
-![alt text](https://raw.githubusercontent.com/sblattj/PythonPredictionsMachineLearning/PythonPredictionsMachineLearning/boxandwhisker.PNG)
+![alt text](https://github.com/sblattj/PythonPredictionsMachineLearning/blob/master/PythonPredictionsMachineLearning/boxandwhisker.PNG)
 
 # Histograms
 ![alt text](https://github.com/sblattj/PythonPredictionsMachineLearning/blob/master/PythonPredictionsMachineLearning/histograms.PNG)
 
 # Scatter Plot Matrix
-![alt text](https://raw.githubusercontent.com/sblattj/PythonPredictionsMachineLearning/PythonPredictionsMachineLearning/histograms.PNG)
+![alt text]https://github.com/sblattj/PythonPredictionsMachineLearning/blob/master/PythonPredictionsMachineLearning/histograms.PNG)
 
 # Compare Algorithms
 ![alt text](https://github.com/sblattj/PythonPredictionsMachineLearning/blob/master/PythonPredictionsMachineLearning/comparealgs.PNG)
 
 # Final Predictions
-![alt text](https://raw.githubusercontent.com/sblattj/PythonPredictionsMachineLearning/PythonPredictionsMachineLearning/predictions.PNG)
+![alt text](https://github.com/sblattj/PythonPredictionsMachineLearning/blob/master/PythonPredictionsMachineLearning/predictions.PNG)
+
+#Results
+
+As you can see, we have predicted value within a 90% accuracy range.
