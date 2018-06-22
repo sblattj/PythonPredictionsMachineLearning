@@ -23,7 +23,7 @@ Run easily with Anaconda 5.1
 ![alt text](https://github.com/sblattj/PythonPredictionsMachineLearning/blob/master/PythonPredictionsMachineLearning/histograms.PNG)
 
 # Scatter Plot Matrix
-![alt text]https://github.com/sblattj/PythonPredictionsMachineLearning/blob/master/PythonPredictionsMachineLearning/histograms.PNG)
+![alt text](https://github.com/sblattj/PythonPredictionsMachineLearning/blob/master/PythonPredictionsMachineLearning/histograms.PNG)
 
 # Compare Algorithms
 ![alt text](https://github.com/sblattj/PythonPredictionsMachineLearning/blob/master/PythonPredictionsMachineLearning/comparealgs.PNG)
@@ -31,6 +31,6 @@ Run easily with Anaconda 5.1
 # Final Predictions
 ![alt text](https://github.com/sblattj/PythonPredictionsMachineLearning/blob/master/PythonPredictionsMachineLearning/predictions.PNG)
 
-#Results
+# Results
 
 As you can see, we have predicted value within a 90% accuracy range.
