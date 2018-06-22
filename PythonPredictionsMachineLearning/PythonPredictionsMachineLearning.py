@@ -15,35 +15,44 @@ from sklearn.naive_bayes import GaussianNB
 from sklearn.svm import SVC
 
 # Load dataset
+print("\nLoading dataset...")
 url = "https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data"
 names = ['sepal-length', 'sepal-width', 'petal-length', 'petal-width', 'class']
 dataset = pandas.read_csv(url, names=names)
 
 # shape
+print("\nShape")
 print(dataset.shape)
 
 # head
+print("\nHead")
 print(dataset.head(20))
 
 # descriptions
+print("\nDescriptions")
 print(dataset.describe())
 
 # class distribution
+print("\nClass Distribution")
 print(dataset.groupby('class').size())
 
 # box and whisker plots
+print("\nShow box and whisker plots")
 dataset.plot(kind='box', subplots=True, layout=(2,2), sharex=False, sharey=False)
 plt.show()
 
 # histograms
+print("\nShow Histograms of dataset")
 dataset.hist()
 plt.show()
 
 # scatter plot matrix
+print("\nScatter Plot Matrix")
 scatter_matrix(dataset)
 plt.show()
 
 # Split-out validation dataset
+print("\nSplit validation dataset")
 array = dataset.values
 X = array[:,0:4]
 Y = array[:,4]
@@ -52,5 +61,15 @@ seed = 7
 X_train, X_validation, Y_train, Y_validation = model_selection.train_test_split(X, Y, test_size=validation_size, random_state=seed)
 
 # Test options and evaluation metric
+print("\nTest Options and Eval Metic : Seed = 7")
 seed = 7
 scoring = 'accuracy'
+
+# Make predictions on validation dataset
+print("\nPredictions on validation dataset")
+knn = KNeighborsClassifier()
+knn.fit(X_train, Y_train)
+predictions = knn.predict(X_validation)
+print(accuracy_score(Y_validation, predictions))
+print(confusion_matrix(Y_validation, predictions))
+print(classification_report(Y_validation, predictions))
