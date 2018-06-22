@@ -24,3 +24,9 @@ Run easily with Anaconda 5.1
 
 # Scatter Plot Matrix
 ![alt text](https://raw.githubusercontent.com/sblattj/PythonPredictionsMachineLearning/PythonPredictionsMachineLearning/histograms.PNG)
+
+# Compare Algorithms
+![alt text](https://github.com/sblattj/PythonPredictionsMachineLearning/blob/master/PythonPredictionsMachineLearning/comparealgs.PNG)
+
+# Final Predictions
+![alt text](https://raw.githubusercontent.com/sblattj/PythonPredictionsMachineLearning/PythonPredictionsMachineLearning/predictions.PNG)
