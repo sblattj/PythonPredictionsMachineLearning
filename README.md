@@ -15,3 +15,5 @@ Special Thanks to Jason Brownlee
 # Run:
 
 Run easily with Anaconda 5.1
+
+![alt text](https://raw.githubusercontent.com/sblattj/PythonPredictionsMachineLearning/master/PythonPredictionsMachineLearning/boxandwhisker.png)
