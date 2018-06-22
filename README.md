@@ -1,6 +1,6 @@
 # Machine Learning in Python
 
-# Special Thanks to Jason Brownlee
+Special Thanks to Jason Brownlee
 
 # Steps:
 
