@@ -4,13 +4,13 @@
 
 # Steps:
 
-...
+```
 1. Define Problem.
 2. Prepare Data.
 3. Evaluate Algorithms.
 4. Improve Results.
 5. Present Results.
-...
+```
 
 # Run:
 
