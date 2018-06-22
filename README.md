@@ -16,4 +16,11 @@ Special Thanks to Jason Brownlee
 
 Run easily with Anaconda 5.1
 
-![alt text](https://raw.githubusercontent.com/sblattj/PythonPredictionsMachineLearning/master/PythonPredictionsMachineLearning/boxandwhisker.png)
+# Box and Wisker Plot
+![alt text](https://raw.githubusercontent.com/sblattj/PythonPredictionsMachineLearning/PythonPredictionsMachineLearning/boxandwhisker.PNG)
+
+# Histograms
+![alt text](https://github.com/sblattj/PythonPredictionsMachineLearning/blob/master/PythonPredictionsMachineLearning/histograms.PNG)
+
+# Scatter Plot Matrix
+![alt text](https://raw.githubusercontent.com/sblattj/PythonPredictionsMachineLearning/PythonPredictionsMachineLearning/histograms.PNG)
